@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TAMAGOTCHI</string>
+    <string name="app_heading">Welcome to Mametchi Your Tamagotchi App</string>
+    <string name="textView1">Hunger</string>
+    <string name="textView2">Cleanliness</string>
+    <string name="textView3">Happiness</string>
+    <string name="button1">FEED</string>
+    <string name="button2">CLEAN</string>
+    <string name="button3">PLAY</string>
+</resources>
