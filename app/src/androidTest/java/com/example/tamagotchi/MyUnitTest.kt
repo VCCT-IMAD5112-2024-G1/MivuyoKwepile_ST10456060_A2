@@ -55,10 +55,9 @@ class MainActivity2Test {
 
             override fun matchesSafely(item: View?): Boolean {
                 if (item !is ImageView) return false
-                val imageView = item
                 val resources = InstrumentationRegistry.getInstrumentation().targetContext.resources
                 val expectedDrawable = resources.getDrawable(resourceId, null)
-                val actualDrawable = imageView.drawable
+                val actualDrawable = item.drawable
                 return expectedDrawable.constantState == actualDrawable.constantState
             }
         }
