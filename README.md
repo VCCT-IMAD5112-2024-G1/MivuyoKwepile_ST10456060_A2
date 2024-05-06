@@ -15,4 +15,4 @@ step 8: if you are done viewing playing with Mametchi, close application
 My Tamagotchi app provides a virtual pet ownership experience, allowing users to care for and bond with their digital companions in a convenient mobile format.
 You can feed, clean and play with Mametchi.
 
-Link to my YouTube video:
+Link to my YouTube video: https://youtu.be/YzEds9N5CUM  
